@@ -1,0 +1,11 @@
+E:\VisualEngin\Camp3_class\bin\Debug\netcoreapp2.1\Camp3_class.deps.json
+E:\VisualEngin\Camp3_class\bin\Debug\netcoreapp2.1\Camp3_class.runtimeconfig.json
+E:\VisualEngin\Camp3_class\bin\Debug\netcoreapp2.1\Camp3_class.runtimeconfig.dev.json
+E:\VisualEngin\Camp3_class\bin\Debug\netcoreapp2.1\Camp3_class.dll
+E:\VisualEngin\Camp3_class\bin\Debug\netcoreapp2.1\Camp3_class.pdb
+E:\VisualEngin\Camp3_class\obj\Debug\netcoreapp2.1\Camp3_class.csproj.CoreCompileInputs.cache
+E:\VisualEngin\Camp3_class\obj\Debug\netcoreapp2.1\Camp3_class.AssemblyInfoInputs.cache
+E:\VisualEngin\Camp3_class\obj\Debug\netcoreapp2.1\Camp3_class.AssemblyInfo.cs
+E:\VisualEngin\Camp3_class\obj\Debug\netcoreapp2.1\Camp3_class.dll
+E:\VisualEngin\Camp3_class\obj\Debug\netcoreapp2.1\Camp3_class.pdb
+E:\VisualEngin\Camp3_class\obj\Debug\netcoreapp2.1\Camp3_class.csprojAssemblyReference.cache
